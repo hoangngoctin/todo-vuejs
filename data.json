@@ -1,0 +1,31 @@
+ // json-server --watch db.json (mở server)
+{
+  "posts": [
+    {
+      "id": 1,
+      "content": "json-server"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+  "aaaa": [
+    {
+      "id": 1,
+      "ten": "tin"
+    },
+    {
+      "id": 2,
+      "ten": "tinnnnn"
+    }
+  ]
+}
+
