@@ -47,5 +47,11 @@ import AboutView from "./views/AboutView.vue"
 .about:hover{
     color: white;
   }
+
+  @media only screen and (max-width: 500px){
+    .container{
+      display: flex;
+    }
+  }
 </style>
 

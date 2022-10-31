@@ -344,21 +344,30 @@ body {
   }
 }
 
-@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+@media only screen and (min-width: 501px) and (max-width: 1024px) {
   .container{
     max-width: 100%;
   }
+  .text{
+    width: 70%;
+  }
 }
 
-@media only screen and (max-width: 46.1875em){
+@media only screen and (max-width: 500px){
   .container{
     max-width: 740px;
-    
   }
   .content{
-    right: 120px;
-    top: 270%;
+    right: 80px;
+    top: 300%;
     color: #000;
+  }
+  .name{
+    font-size: 35px;
+  }
+  .des{
+    font-size: 16px;
+    width: 92%;
   }
   .item:nth-child(1) {
     left: 80%;

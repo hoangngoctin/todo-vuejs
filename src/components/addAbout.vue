@@ -239,19 +239,19 @@ export default {
   color: white;
 }
 
-@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+@media only screen and (min-width: 501px) and (max-width: 1024px) {
   .box-top input {
     width: 75%;
   }
 }
 
-@media only screen and (max-width: 46.1875em) {
+@media only screen and (max-width: 500px) {
   .box-top input {
-    width: 60%;
+    width: 55%;
   }
 
   .check {
-    width: 60%;
+    width: 50%;
   }
 
   .fitter {
@@ -261,7 +261,7 @@ export default {
   }
 
   #cb1 {
-    margin-left: 70px;
+    margin-left: 50px;
   }
 
   .hop {
@@ -269,7 +269,7 @@ export default {
   }
 
   .hop>button {
-    margin: 0 15px;
+    margin: 0 10px;
   }
 
   #alertBox {
