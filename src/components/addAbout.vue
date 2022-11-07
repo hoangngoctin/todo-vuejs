@@ -115,7 +115,7 @@ export default {
 .top {
   text-align: center;
   text-transform: uppercase;
-  font-family: cursive;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding: 20px 0;
 }
 
@@ -174,7 +174,7 @@ export default {
   background: #ba1515;
   border-radius: 5px;
   padding-bottom: 4px;
-  font-family: cursive;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -251,7 +251,7 @@ export default {
   }
 
   .check {
-    width: 50%;
+    width: 65%;
   }
 
   .fitter {
@@ -261,7 +261,7 @@ export default {
   }
 
   #cb1 {
-    margin-left: 50px;
+    margin-left: 35px;
   }
 
   .hop {
@@ -275,6 +275,9 @@ export default {
   #alertBox {
     background: #1dbddd;
     color: red;
+  }
+  .main:hover .delete{
+    width: 40px;
   }
 }
 </style>

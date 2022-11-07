@@ -19,7 +19,7 @@
               thích vô bổ để giết chết thời gian. Cho đến
               hết ngày, một câu hỏi đặt ra là ta đã làm được gì hôm nay?
               Nếu ta cứ sống buông thả như vậy, thì thì ta chỉ là đang tồn tại chứ không phải là đang sống
-             . Hãy bắt đầu thói quen lên danh sách công việc cần làm và hoàn thành nó. Hãy nghiêm khác với
+             . Hãy bắt đầu thói quen lên danh sách công việc cần làm và hoàn thành nó. Hãy nghiêm khắc với
               chính bản thân của mình hơn!
             </div>
           </div>
@@ -358,16 +358,16 @@ body {
     max-width: 740px;
   }
   .content{
-    right: 80px;
+    right: 55px;
     top: 300%;
     color: #000;
   }
   .name{
-    font-size: 35px;
+    font-size: 33px;
   }
   .des{
-    font-size: 16px;
-    width: 92%;
+    font-size: 15px;
+    width: 85%;
   }
   .item:nth-child(1) {
     left: 80%;

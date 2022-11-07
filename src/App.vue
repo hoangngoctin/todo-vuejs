@@ -27,7 +27,7 @@ import AboutView from "./views/AboutView.vue"
     text-align: center;
     padding-top: 30px;
     font-size: 20px;
-    font-family: cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
     max-width: 100%;
    }
@@ -42,6 +42,7 @@ import AboutView from "./views/AboutView.vue"
     margin: 0 20px;
     text-decoration-line: none;
     color: #1f80e1;
+   
   }
   
 .about:hover{
@@ -51,6 +52,7 @@ import AboutView from "./views/AboutView.vue"
   @media only screen and (max-width: 500px){
     .container{
       display: flex;
+      padding-top: 22px;
     }
   }
 </style>
