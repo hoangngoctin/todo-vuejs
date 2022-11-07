@@ -220,7 +220,6 @@ export default {
 
 .tick>input {
   padding: 0 20px;
-  margin-left: 10px;
 }
 
 .hop button {
