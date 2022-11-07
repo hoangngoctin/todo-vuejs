@@ -279,6 +279,9 @@ export default {
   .main:hover .delete{
     width: 40px;
   }
+  .tick{
+    font-size: 14px
+  }
 }
 </style>
 
