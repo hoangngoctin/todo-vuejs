@@ -39,7 +39,7 @@
           </div>
         </div>
 
-        <div class="item">
+        <div class="item animationTop">
           <div class="content">
             <div class="name"></div>
             <div class="des"></div>

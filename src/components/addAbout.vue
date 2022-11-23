@@ -218,10 +218,6 @@ export default {
   accent-color: green;
 }
 
-.tick>input {
-  padding: 0 20px;
-}
-
 .hop button {
   margin: 0 5px;
   border: none;
