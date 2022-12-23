@@ -218,7 +218,7 @@ body {
 }
 
 .item:nth-child(1) {
-  left: 35%;
+  left: 37%;
 }
 
 .item:nth-child(2) {
