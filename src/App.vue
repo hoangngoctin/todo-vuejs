@@ -27,7 +27,7 @@ import AboutView from "./views/AboutView.vue"
     text-align: center;
     padding-top: 30px;
     font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Orbitron;
     margin: 0;
     max-width: 100%;
    }

@@ -251,7 +251,7 @@ body {
   color: #000000;
   transform: translate(0, -50%);
   display: none;
-  font-family: system-ui;
+  font-family: Orbitron;
 }
 
 .item:nth-child(2) .content {
